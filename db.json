@@ -1,0 +1,69 @@
+{
+  "seller-sign": [
+    {
+      "name": null,
+      "email": "abhiwankhede326@gmail.com",
+      "password": "1245486",
+      "id": 4
+    },
+    {
+      "name": "abhishek",
+      "email": "sbawne823@gmail.com",
+      "password": "4578",
+      "id": 5
+    },
+    {
+      "name": "abhishek",
+      "email": "sbawne823@gmail.com",
+      "password": "4758",
+      "id": 6
+    }
+  ],
+  "seller-login": [
+    {
+      "email": "abhiwankhede326@gmail.com",
+      "password": "1245486",
+      "id": 4
+    },
+    {
+      "email": "sbawne823@gmail.com",
+      "password": "45454545",
+      "id": 5
+    },
+    {
+      "email": "abhiwankhede326@gmail.com",
+      "password": "44555",
+      "id": 6
+    },
+    {
+      "email": "abhiwankhede326@gmail.com",
+      "password": "4578",
+      "id": 7
+    },
+    {
+      "email": "abhiwankhede326@gmail.com",
+      "password": "1245",
+      "id": 8
+    },
+    {
+      "email": "abhiwankhede326@gmail.com",
+      "password": "1245",
+      "id": 9
+    },
+    {
+      "email": "abhiwankhede326@gmail.com",
+      "password": "14511",
+      "id": 10
+    },
+    {
+      "email": "abhiwankhede326@gmail.com",
+      "password": "4555",
+      "id": 11
+    },
+    {
+      "email": null,
+      "password": null,
+      "id": 12
+    }
+  ]
+}

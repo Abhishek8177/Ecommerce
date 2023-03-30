@@ -1,11 +1,11 @@
-/* .container-fluid{
-    height: 100px;
-    width: 100%;
-    background-color: lightcoral;
+
+
+a{
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(213, 203, 203);
 }
- */
-/* .center{
-    display: flex;
-    justify-content: center;
-    padding-left: 700px;
-} */
+
+h2{
+    color: rgb(213, 203, 203);
+}
